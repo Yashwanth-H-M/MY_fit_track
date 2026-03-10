@@ -1,0 +1,18 @@
+{
+  "name": "FitTrak Gym Routine",
+  "short_name": "FitTrak",
+  "description": "Your premium gym companion for daily routines.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#FDFCFB",
+  "theme_color": "#FF4D1C",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "/icon.png",
+      "sizes": "1024x1024",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
