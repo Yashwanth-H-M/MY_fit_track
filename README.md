@@ -2,7 +2,7 @@
 
 **FitTrak** is a high-performance, mobile-first web application designed to track your weekly gym routines with a clean, premium aesthetic. Optimized for both speed and usability, it features a custom reset flow, offline support (PWA), and a sleek typography-driven design.
 
-**Live Demo:** [https://fit-trak-five.vercel.app/](https://fit-trak-five.vercel.app/)
+**Live Demo:** https://fittrak-five.vercel.app/
 
 ![FitTrak Preview](https://github.com/Yashwanth-H-M/MY_fit_track/raw/main/public/icon.png)
 
